@@ -14,7 +14,6 @@ There are two modules Student & Admin
 - search student by using their student ID
 - view student details
 - change own password
-- 
 
 
 ### Student Features
@@ -56,6 +55,10 @@ Open Your browser put inside browser “https://library-management-system-abdo-e
 Login Details for admin :
 Username : admin
 Password : admin@123
+
+
+
+## SOME IMAGES 
 
 Home Page: 
 ![alt text](https://github.com/kumarpandule2000/Online-Library-Management-System-PHP/blob/master/Images/1%20Updated.png?raw=true)
