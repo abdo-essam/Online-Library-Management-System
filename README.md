@@ -22,7 +22,7 @@ There are two modules Student & Admin
 - change own password.
 - recover own password.
 
-Note : Student can register yourself and after registration they will get studentid After login student can view own dashboard.
+Note : Student can register himself and after registration he will get studentid After login student can view own dashboard.
 
 
 How to run this Project
@@ -36,7 +36,7 @@ Import database library.sql (available inside zip package)
 For User
 Open Your browser put inside browser “http://localhost/library”
 
-Online Test
+For Online Test
 Open Your browser put inside browser “https://library-management-system-abdo-essam.000webhostapp.com/index.php”
 
 Login Details for user :
