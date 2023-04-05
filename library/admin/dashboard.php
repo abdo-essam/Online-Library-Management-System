@@ -100,7 +100,7 @@ $returnedbooks=$query2->rowCount();
                             <i class="fa fa-users fa-5x"></i>
                             <?php 
 $sql3 ="SELECT id from tblstudents ";
-$query3 = $dbh -> prepare($sql1);
+$query3 = $dbh -> prepare($sql3);
 $query3->execute();
 $results3=$query3->fetchAll(PDO::FETCH_OBJ);
 $regstds=$query3->rowCount();
