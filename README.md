@@ -17,13 +17,12 @@ There are two modules Student & Admin
 
 
 ### Student Features
-
-Student can register yourself and after registration they will get studentid
-After login student can view own dashboard.
 - update own profile.
 - view issued book and book return date-time.
 - change own password.
 - recover own password.
+
+Note : Student can register yourself and after registration they will get studentid After login student can view own dashboard.
 
 
 How to run this Project
