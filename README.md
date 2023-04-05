@@ -57,10 +57,6 @@ Open Your browser put inside browser “https://library-management-system-abdo-e
 - Password : admin@123
 
 
-
-## Some Images 
-
-
 ### Admin Dashboard:
 ![alt text](https://github.com/abdo-essam/Online-Library-Management-System/blob/main/Images/Admin%20Dashboard.png?raw=true)
 
