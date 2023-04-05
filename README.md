@@ -25,13 +25,14 @@ There are two modules Student & Admin
 Note : Student can register himself and after registration he will get studentid After login student can view own dashboard.
 
 
-How to run this Project
+## How to run this Project
 1. Download and Unzip file on your local system copy library.
 2. Put library folder inside root directory
-Database Configuration
-Open phpmyadmin
-Create Database library
-Import database library.sql (available inside zip package)
+
+## For Database Configuration
+1. Open phpmyadmin
+2. Create Database library
+3. Import database library.sql (available inside zip package)
 
 For User
 Open Your browser put inside browser “http://localhost/library”
@@ -39,7 +40,7 @@ Open Your browser put inside browser “http://localhost/library”
 For Online Test
 Open Your browser put inside browser “https://library-management-system-abdo-essam.000webhostapp.com/index.php”
 
-Login Details for user :
+## Login Details for user :
 
 - Username : test@gmail.com
 - Password : Test@123
@@ -51,7 +52,7 @@ Open Your browser put inside browser “http://localhost/library/admin”
 Online Test
 Open Your browser put inside browser “https://library-management-system-abdo-essam.000webhostapp.com/adminlogin.php”
 
-Login Details for admin :
+## Login Details for admin :
 - Username : admin
 - Password : admin@123
 
