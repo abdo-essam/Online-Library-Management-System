@@ -62,13 +62,13 @@ Open Your browser put inside browser “https://library-management-system-abdo-e
 
 
 ### Admin Dashboard:
-![alt text](https://github.com/abdo-essam/Online-Library-Management-System/blob/main/Images/Admin%20Dashboard.png?raw=true))
+![alt text](https://github.com/abdo-essam/Online-Library-Management-System/blob/main/Images/Admin%20Dashboard.png?raw=true)
 
 ### Student Login:
 ![alt text](https://github.com/abdo-essam/Online-Library-Management-System/blob/main/Images/Student%20Login.png?raw=true)
 
 ### Student Signup:
-![alt text]([https://github.com/abdo-essam/Online-Library-Management-System/blob/main/Images/Admin%20Dashboard.png?raw=true](https://github.com/abdo-essam/Online-Library-Management-System/blob/main/Images/Student%20Signup.png?raw=true)
+![alt text](https://github.com/abdo-essam/Online-Library-Management-System/blob/main/Images/Student%20Signup.png?raw=true)
 
 ### Manage Reg Students:
 ![alt text](https://github.com/abdo-essam/Online-Library-Management-System/blob/main/Images/Manage%20Reg%20Students.jpg?raw=true)
