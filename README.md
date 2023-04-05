@@ -60,19 +60,8 @@ Open Your browser put inside browser “https://library-management-system-abdo-e
 
 ## SOME IMAGES 
 
-### Home Page: 
-![alt text](https://github.com/kumarpandule2000/Online-Library-Management-System-PHP/blob/master/Images/1%20Updated.png?raw=true)
-
-
 
 ### Admin Dashboard:
-![alt text](https://github.com/kumarpandule2000/Online-Library-Management-System-PHP/blob/master/Images/3%20Updated.png?raw=true)
-
-
-
-
-### Student Dashboard:
-![alt text](https://github.com/kumarpandule2000/Online-Library-Management-System-PHP/blob/master/Images/2.png?raw=true)
-
+![alt text](https://github.com/abdo-essam/Online-Library-Management-System/blob/main/Images/Admin%20Dashboard.png?raw=true)
 
 
