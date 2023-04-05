@@ -1,5 +1,6 @@
 # Online-Library-Management-System
 A Simple Online Library Management System for School and Colleges.
+Project Documentation (https://github.com/abdo-essam/Online-Library-Management-System/blob/main/Documentation.pdf)
 There are two modules Student & Admin
 
 ### Admin Features
@@ -13,7 +14,7 @@ There are two modules Student & Admin
 - 
 
 
-#### Student Features
+### Student Features
 
 Student can register yourself and after registration they will get studentid
 After login student can view own dashboard.
@@ -68,4 +69,4 @@ Student Dashboard:
 ![alt text](https://github.com/kumarpandule2000/Online-Library-Management-System-PHP/blob/master/Images/2.png?raw=true)
 
 
-I Created Documentation to this project ![alt text](https://github.com/abdo-essam/Online-Library-Management-System/blob/main/Documentation.pdf)
+
