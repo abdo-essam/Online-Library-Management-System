@@ -60,18 +60,18 @@ Open Your browser put inside browser “https://library-management-system-abdo-e
 
 ## SOME IMAGES 
 
-# Home Page: 
+### Home Page: 
 ![alt text](https://github.com/kumarpandule2000/Online-Library-Management-System-PHP/blob/master/Images/1%20Updated.png?raw=true)
 
 
 
-# Admin Dashboard:
+### Admin Dashboard:
 ![alt text](https://github.com/kumarpandule2000/Online-Library-Management-System-PHP/blob/master/Images/3%20Updated.png?raw=true)
 
 
 
 
-# Student Dashboard:
+### Student Dashboard:
 ![alt text](https://github.com/kumarpandule2000/Online-Library-Management-System-PHP/blob/master/Images/2.png?raw=true)
 
 
