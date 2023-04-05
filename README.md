@@ -1,7 +1,7 @@
 # Online-Library-Management-System
 A Simple Online Library Management System for School and Colleges.
 
-- Project Documentation -> (https://github.com/abdo-essam/Online-Library-Management-System/blob/main/Documentation.pdf)
+- Project Documentation -> https://github.com/abdo-essam/Online-Library-Management-System/blob/main/Documentation.pdf
 
 
 There are two modules Student & Admin
