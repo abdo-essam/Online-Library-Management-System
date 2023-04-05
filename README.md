@@ -1,27 +1,28 @@
 # Online-Library-Management-System
-A Simple Online Library Management System for School and Colleges
-Online library Management System divided in two modules–
+A Simple Online Library Management System for School and Colleges.
+There are two modules Student & Admin
 
-Student
-Admin
-Admin Features
+### Admin Features
+- add/update/ delete category
+- add/update/ delete author
+- add/update/ delete books
+- issue a new book to student and also update the details when student return book
+- search student by using their student ID
+- view student details
+- change own password
+- 
 
-Admin Dashboard
-Admin can add/update/ delete category
-Admin can add/update/ delete author
-Admin can add/update/ delete books
-Admin can issue a new book to student and also update the details when student return book
-Admin can search student by using their student ID
-Admin can also view student details
-Admin can change own password
-Students-
+
+#### Student Features
 
 Student can register yourself and after registration they will get studentid
 After login student can view own dashboard.
- Student can update own profile.
-Student can view issued book and book return date-time.
-Student can also change own password.
-Student can also recover own password.
+- update own profile.
+- view issued book and book return date-time.
+- change own password.
+- recover own password.
+
+
 How to run this Project
 1. Download and Unzip file on your local system copy library.
 2. Put library folder inside root directory
@@ -33,6 +34,9 @@ Import database library.sql (available inside zip package)
 For User
 Open Your browser put inside browser “http://localhost/library”
 
+Online Test
+Open Your browser put inside browser “https://library-management-system-abdo-essam.000webhostapp.com/index.php”
+
 Login Details for user :
 
 Username : test@gmail.com
@@ -42,6 +46,9 @@ Password : Test@123
 For Admin Panel
 Open Your browser put inside browser “http://localhost/library/admin”
 
+Online Test
+Open Your browser put inside browser “https://library-management-system-abdo-essam.000webhostapp.com/adminlogin.php”
+
 Login Details for admin :
 Username : admin
 Password : admin@123
@@ -49,53 +56,12 @@ Password : admin@123
 Home Page: 
 ![alt text](https://github.com/kumarpandule2000/Online-Library-Management-System-PHP/blob/master/Images/1%20Updated.png?raw=true)
 
-Online library Management System divided in two modules–
-
-Student
-Admin
-
-
-
-Admin Features
-
-
-
-Admin Dashboard
-
-Admin can add/update/ delete category
-
-Admin can add/update/ delete author
-
-Admin can add/update/ delete books
-
-Admin can issue a new book to student and also update the details when student return book
-
-Admin can search student by using their student ID
-
-Admin can also view student details
-
-Admin can change own password
 
 
 Admin Dashboard:
 ![alt text](https://github.com/kumarpandule2000/Online-Library-Management-System-PHP/blob/master/Images/3%20Updated.png?raw=true)
 
 
-Students-
-
-
-
-Student can register yourself and after registration they will get studentid
-
-After login student can view own dashboard.
-
-Student can update own profile.
-
-Student can view issued book and book return date-time.
-
-Student can also change own password.
-
-Student can also recover own password.
 
 
 Student Dashboard:
