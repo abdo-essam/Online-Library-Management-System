@@ -38,7 +38,7 @@ For User
 Open Your browser put inside browser “http://localhost/library”
 
 For Online Test
-Open Your browser put inside browser “https://library-management-system-abdo-essam.000webhostapp.com/index.php”
+Open Your browser put inside browser “http://online-library-management-system.atwebpages.com/index.php”
 
 ## Login Details for user :
 
@@ -50,7 +50,7 @@ For Admin Panel
 Open Your browser put inside browser “http://localhost/library/admin”
 
 Online Test
-Open Your browser put inside browser “https://library-management-system-abdo-essam.000webhostapp.com/adminlogin.php”
+Open Your browser put inside browser “http://online-library-management-system.atwebpages.com/adminlogin.php”
 
 ## Login Details for admin :
 - Username : admin
